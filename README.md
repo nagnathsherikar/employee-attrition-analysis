@@ -1,5 +1,7 @@
 # Employee Attrition Analysis & Retention Insights
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Pandas](https://img.shields.io/badge/Pandas-2.x-150458)
+
 Exploratory data analysis of employee attrition survey data to identify the key drivers behind employees leaving an organization, and translate those findings into actionable retention recommendations.
 
 ## Overview
